@@ -1,0 +1,24 @@
+[project]
+name = "ac-datasets"
+version = "0.1.0"
+description = "Miscellaneous Asheron's Call datasets"
+readme = "README.md"
+authors = [
+    { name = "Bryce Mecum", email = "petridish@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "frictionless>=5.19.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]

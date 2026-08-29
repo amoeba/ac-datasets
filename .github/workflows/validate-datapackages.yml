@@ -1,0 +1,30 @@
+name: Validate Data Packages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          version: "0.12.5"
+
+      - name: Check data packages are up to date
+        run: |
+          for dir in datasets/*/; do
+            uv run scripts/generate_datapackage.py "$dir" --check
+          done
+
+      - name: Validate data packages
+        run: uv run scripts/validate_datapackages.py
+
+      - name: Run unit tests
+        run: uv run pytest

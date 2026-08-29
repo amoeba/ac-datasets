@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+exec uv run python scripts/validate-commit-messages.py --message-file "$1"

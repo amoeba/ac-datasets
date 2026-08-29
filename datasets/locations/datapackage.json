@@ -1,0 +1,60 @@
+{
+  "profile": "data-package",
+  "resources": [
+    {
+      "name": "locations",
+      "type": "table",
+      "path": "locations.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "string"
+          },
+          {
+            "name": "cell_id",
+            "type": "string"
+          },
+          {
+            "name": "position_x",
+            "type": "number"
+          },
+          {
+            "name": "position_y",
+            "type": "number"
+          },
+          {
+            "name": "position_z",
+            "type": "number"
+          }
+        ]
+      },
+      "bytes": 54038,
+      "hash": "d6863d1f1952a8169dbdfc215e9f5f0a"
+    }
+  ],
+  "name": "locations",
+  "title": "Locations",
+  "description": "Named locations in Dereth, including dungeons and points of interest.",
+  "sources": [
+    {
+      "title": "Asheron's Call community data",
+      "path": "https://github.com/amoeba/ac-datasets"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "Creative Commons Zero v1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}

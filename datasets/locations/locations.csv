@@ -1,0 +1,932 @@
+﻿name,category,cell_id,position_x,position_y,position_z
+"A Cave",dungeon,0x018B0191,50,-10,0
+"A Drudge Nest (Hebian-to)",dungeon,0x01DC015C,32.3,-12,6
+"A Drudge Nest (Rithwic)",dungeon,0x01D80108,21.4,-1.3,0
+"A Mosswart Hideout",dungeon,0x02B40245,80,-100,0
+"A Mosswart Nest",dungeon,0x01DF0106,7.1,-28.8,0.5
+"A Rat Nest",dungeon,0x01DD015F,30.1,-66.6,0
+"A Red Rat Lair",dungeon,0x01D90100,3,-49.9,0
+"A Ruin (Arwic)",dungeon,0x0187011D,10,-30,0
+"A Ruin (Mayoi)",dungeon,0x01DE0195,30.1,-8.2,0
+"A Ruin (Rithwic)",dungeon,0x01B8012E,30.29,-48.72,0
+"A Ruin (Samsur)",dungeon,0x01B9011F,0,-10,0
+"A Ruin (Yanshi)",dungeon,0x01DA010F,11.4,-21.6,0
+"A Small Cave",dungeon,0x01E70121,58.561,-28.65,0
+"A Small Ruin (5+)",dungeon,0x01480139,50,-30,0
+"Abandoned Arena",dungeon,0x01A80156,40,-10,0
+"Abandoned Armory",dungeon,0x5645023C,90,-80,0.005
+"Abandoned Mine",dungeon,0x01C9022D,72.9,-30.2,0
+"Abandoned Shops",dungeon,0x0159018F,180.2,-51.2,0
+"Abandoned Tumerok Site",dungeon,0x02840211,20,0,0
+"Abayar's Laboratory",dungeon,0x018E037B,11.736,-150.022,0.005
+"Abayar's Study",dungeon,0x01990175,50.0151,-155.699,0.005
+"Abhorrent Vault (90+)",dungeon,0x02D40260,70,-20,0.005
+"Abyssal Olthoi Chasm",dungeon,0x5D4E02EF,70,-18.4296,0.005
+"Accord Veranda",housing,0x90000161,83.74,-93.75,0
+"Accursed Halls",dungeon,0x01F90101,0,-130,-18
+"Acid Guardian Lair (60-79)",dungeon,0x5943014A,47.5,-2.5,6.005
+"Acid Ziggurat (40-59)",dungeon,0x58460104,20,-20,0.005
+"Acidic Refuge (150+)",dungeon,0x576C01C1,14.3607,-40,6.005
+"Acolyte's Chamber",dungeon,0x00DD0102,9.51546,-20.0248,0.006
+"Adventurer's Haven",dungeon,0x01AC010C,10.28,-19.9,0
+"Aerbax Haven",dungeon,0x029F017E,60,-610,0
+"Aerbax Laboratory",dungeon,0x029E0269,50,-10,6
+"Aerbax's Holding (60+)",dungeon,0x594B012B,140,0,0.005
+"Aerlinthe Lower Reservoir",dungeon,0x02ED01B5,70,-30,-72
+"Aerlinthe Reservoir",dungeon,0x02EE03D2,80,-110,6
+"Al-Arqas Meeting Hall",dungeon,0x011D0126,30,-60,6
+"Al-Jalima Meeting Hall",dungeon,0x011E0126,30,-60,6
+"Alfreth Dungeon",dungeon,0x01D601B9,135.8,-1.22,0
+"Allain Court",housing,0x81000161,83.74,-93.75,0
+"Alphus Court",housing,0x7A000161,83.74,-93.75,0
+"Altar Nest (140+)",dungeon,0x00850151,50,-80,18
+"Alvan Court",housing,0x536001D7,83.74,-93.75,0
+"Amiantos Bethel",dungeon,0x01130211,30,-20,6
+"Amperehelion Vault",dungeon,0x01190371,60,-110,42
+"An Archive (115+)",dungeon,0x564601DC,29.8764,-251.507,0.005
+"An Olthoi Soldier Nest (30+)",dungeon,0x02820234,120,-10,0
+"Ancient Caves",dungeon,0x00D10E92,160,-150,-2.91085
+"Ancient Cloister",dungeon,0x00EB014E,100.057,-192.475,-29.995
+"Ancient Empyrean Grotto (40+)",dungeon,0x027C01B0,40,0,0.1
+"Ancient Lighthouse",dungeon,0x01A902D5,60,-20,0
+"Ancient Masonry (100+)",dungeon,0x008B0155,50,-230,0.005
+"Ancient Temple",dungeon,0x594D03E2,60,-50,0.005
+"Antechamber",dungeon,0x594F02C2,140,-156.951,0.005
+"Apostate Citadel Barracks",dungeon,0x284201E0,80,-480,6.005
+"Apostate Citadel Headquarters",dungeon,0x284201C9,70,-190,6.005
+"Apostate Citadel Mines (150+)",dungeon,0x28420163,210,-710,0.005
+"Apostate Excavation",dungeon,0x39600107,118,-5,-15.595
+"Arcanum Furniture Shop",dungeon,0x039C01F4,16,-9,0
+"Arcanum Research Facility (20+)",dungeon,0x545B0121,50,-50,0
+"Arcanum Storehouse Middle Level",dungeon,0x545C0619,40,-291.682,-11.995
+"Arcanum Storehouse Upper Level",dungeon,0x545C0681,220,-310,0.005
+"Archive",dungeon,0x193604BC,146.681,-8.62729,-4.8255
+"Arena",dungeon,0x02E201A3,130,-50,12
+"Arena of the Tusker Hero",dungeon,0x5E430105,20,-30,0.005
+"Armory",dungeon,0x00EA0303,90,-90,-41.46
+"Arrival Chamber",dungeon,0x3FB10110,514,-309,-51.595
+"Artifex Collegium",dungeon,0x00ED0350,180,-330,0.005
+"Artifex Vault",dungeon,0x01370341,188.4,-10,0
+"Arwic Meeting Hall",dungeon,0x011F0126,30,-60,6
+"Arwic Mines",dungeon,0x01EF03DD,67.5,-69.8,0
+"Asheron's Sanctum",dungeon,0x5E470104,11.8286,-9.20461,0.005
+"Asheron's Tower",dungeon,0xD599014C,152.5,183.46,374
+"Assassins' Hideout",dungeon,0x00820185,20,-327,0.005
+"Assessment Chamber",dungeon,0x59530182,310,-120,0.05
+"Asuger Temple (20+)",dungeon,0x010B0101,0,0,0
+"Atlan's Laboratory",dungeon,0x006E054C,56.6898,-150.213,0.005
+"Atrium Residential Halls",housing,0x56610140,40,-70,0
+"Augmentation Realm Lower Level",dungeon,0x007D0268,152.833,-103.059,6.005
+"Augmentation Realm Main Level",dungeon,0x0056036D,30,-442.144,0.005
+"Augmentation Realm Upper Level (125+)",dungeon,0x006D0413,30,-300,0.005
+"Aun Papileona's Shrine to Raeta",dungeon,0x028701F3,60.1,-4.5,0
+"Autumn Moon Gardens",housing,0x83000161,83.74,-93.75,0
+"Azaxis",dungeon,0x00B60126,220,-42.969,-11.993
+"Back Tunnels",dungeon,0x005502B8,430.024,-280.138,0.005
+"Bah'Ktar's Tower (180+)",dungeon,0x59520258,210,-370,0.05
+"Baishi Meeting Hall",dungeon,0x01200126,30,-60,6
+"Balmy Font",dungeon,0x01D103D3,50,-50,0
+"Banderling Conquest Dungeon",dungeon,0x02C80258,330,-10,0
+"Banderling Hovel (10+)",dungeon,0x017A0137,29.6039,-10.1276,0
+"Banderling Ruin",dungeon,0x01E00121,13.0085,-27.0157,6.005
+"Bandit Castle Prison",dungeon,0x01E20231,71.894,-20,24.005
+"Banished Assembly",dungeon,0x001501CA,12.2668,-59.989,12.005
+"Barracks Conveyance",dungeon,0x6343028E,100,-90,0.005
+"Basement",dungeon,0x61430112,10.759,-0.022,0.005
+"Behind the Waterfall (80+)",dungeon,0x604401E4,10,-90,0.005
+"Bellig Tower Base",dungeon,0x01D40115,40,-30,0
+"Ben Ten Lodge",housing,0x8A000161,83.74,-93.75,0
+"Binding Realm",dungeon,0x007F01B5,250,-20,-22
+"Black Dominion (25+)",dungeon,0x010A0223,0,-70,0
+"Black Ferah's Vault (151+)",dungeon,0x0073045C,81.3146,-77.9484,0.005
+"Black Spawn Den (20+, Ayan Baqur)",dungeon,0x01040375,100,-210,0
+"Black Spawn Den (20+, Fort Tethana)",dungeon,0x01050375,100,-210,0
+"Black Spawn Den (20+, Wai Jhou)",dungeon,0x01030375,100,-210,0
+"Black Spear Summoning Chamber",dungeon,0x00840241,100,-150,0.005
+"Black Spear Temple (1-100)",dungeon,0x00740528,91.533,-58.586,0.005
+"Black Spear Temple Upper Levels",dungeon,0x007E0353,10,-560,0.005
+"Blessed Cave",dungeon,0xF81E04C8,88.87,107.3,-7.585
+"Blighted Desolation Moarsman Tunnels (75+)",dungeon,0x00C4037C,30,-110,0.005
+"Blighted Disgusting Moarsman Tunnels (35+)",dungeon,0x00C2037C,30,-110,0
+"Blighted Grimy Moarsman Tunnels (95+)",dungeon,0x00C5037C,30,-110,0.005
+"Blighted Putrid Moarsman Tunnels (55+)",dungeon,0x00C3037C,30,-110,0.005
+"Blighted Rank Moarsman Tunnels (15+)",dungeon,0x00C1037C,30,-110,0.005
+"Blighted Verdant Moarsman Tunnels (125+)",dungeon,0x00C6037C,30,-110,0
+"Blightfinger's Warrens",dungeon,0x00D90289,30,-217,0.005
+"Bone Lair",dungeon,0x01450168,90,-30,0
+"Braid Mansion Ruin",dungeon,0x01B70100,-0.6,-12.77,0
+"Breached Hive (50+)",dungeon,0x003E02F7,18.8143,-12.6949,0.005
+"Bur Catacombs",dungeon,0x00D40535,120,-210,-11.985
+"Burial Temple (150+)",dungeon,0x013E03FF,30.39,-146.44,0
+"Burun Burrow",dungeon,0x624702B3,90,-96.5802,0.005
+"Burun Cathedral",dungeon,0x02F803FA,110,-320,0
+"Burun Hold",dungeon,0x017D016D,50,-210,0.005
+"Caerna Dwellings",housing,0x536101D9,83.74,-93.75,0
+"Caliginous Bethel",dungeon,0x63480313,100,-200,0.3
+"Camp Entemarre (80+)",dungeon,0x004901B0,50,-10,0.004999
+"Candeth Court",housing,0x91000161,83.74,-93.75,0
+"Cannibal Caverns",dungeon,0x002202F2,230,-10,-5.995
+"Carved Cave",dungeon,0x018F025C,70.548,-77.66,0
+"Castle Pietrus",dungeon,0x4198012E,165.336,81.863,135.205
+"Catacombs (0x5754012D)",dungeon,0x5754012D,0,-30,0.00499
+"Catacombs (0x5754014B)",dungeon,0x5754014B,0,-130,0.00499
+"Catacombs (0x575401D0)",dungeon,0x575401D0,30,-80,0.00499
+"Catacombs (0x57540261)",dungeon,0x57540261,80,-130,0.00499
+"Catacombs (0x57540264)",dungeon,0x57540264,99.9512,-2.4599,0.006
+"Catacombs (0x57540278)",dungeon,0x57540278,99.9854,-60.0533,0.006
+"Catacombs of Ithaenc",dungeon,0x02B702F1,70,-60,0
+"Catacombs of Opposition",dungeon,0x5E4604DD,210,-100,0.005
+"Catacombs of the Forgotten (15+)",dungeon,0x02E602AF,70,-110,0
+"Caul Asylum (90+)",dungeon,0x6045026F,60,-100,0.005
+"Caul Athenaeum",dungeon,0x60460103,50,-40,0.005
+"Caul Sanatorium (0x6047)",dungeon,0x604703D0,72.7422,-51.8616,6.005
+"Caul Sanatorium (0x6048)",dungeon,0x60480225,100,-110,0.005
+"Caulnalain Vestibule (40+)",dungeon,0x02DC035D,280,-140,0
+"Cave (0x00EE)",dungeon,0x00EE03B4,160.222,-294.414,0.005
+"Cave (Ayan Baqur)",dungeon,0x01BD0107,20.48,-79.33,0
+"Cave (Eastham)",dungeon,0x01F1010A,20,-40,0
+"Cave of Alabree",dungeon,0x016201D1,60,-10,12
+"Cavernous Olthoi Chasm",dungeon,0x5D4D0360,40,-106,-12
+"Cavernous Refuge (150+)",dungeon,0x576D0154,20,-20,13.3262
+"Cedraic Court",housing,0x89000161,83.74,-93.75,0
+"Celcynd Grotto",housing,0x86000161,83.74,-93.75,0
+"Celdiseth Court",housing,0x92000161,83.74,-93.75,0
+"Celestial Hand Gauntlet (180+)",dungeon,0x596B0118,130,-160,0.005
+"Cells of the Black Book",dungeon,0x008902DC,0,-200,-0.087583
+"Chakron Gate (36+)",dungeon,0x02AE0100,59.2,-181.5,-12
+"Chamber of Air",dungeon,0x00C9010C,10,-70,-5.995
+"Chamber of Earth",dungeon,0x00C9014E,140,-70,-5.995
+"Chamber of Scrolls (100+)",dungeon,0x00C901A1,80,-360,0.005
+"Chamber of the High Priest's First",dungeon,0x00DD0108,10.009,-169.962,0.005
+"Chamber of the High Priest's Second",dungeon,0x00DD0106,9.40494,-120.053,0.005
+"Chamber of the High Priest's Third",dungeon,0x00DD0104,10.0574,-70.0025,0.005
+"Chamber of Water",dungeon,0x00C90174,270,-70,-5.995
+"Chapel of Mowen (50+)",dungeon,0x594A0148,60,-181.555,0.005
+"Charged Niche (180+)",dungeon,0x595E020F,120,-130,0.005
+"Charged Refuge (150+)",dungeon,0x576A01B4,39.9071,-269.055,0.015
+"Chiming (180+)",dungeon,0x5868016E,130,-80,14.711
+"Citadel Library",dungeon,0x56530113,31.097,-10.963,0.005
+"Colier Mine",dungeon,0x01AE020A,113.633,-29.448,-11.995
+"Collegium Occultus",dungeon,0x00440201,70,-157,0.005
+"Collegium Occultus Anteroom",dungeon,0x004401FA,70,-7,0.005
+"Collegium Planar Abstraction Conveyance",dungeon,0x00D60210,60,-336.598,6.005
+"Colossus Foundry",dungeon,0x545701C5,160,-90,0
+"Colton Reeyan's Sanctuary (150+)",dungeon,0x58600196,120,-155.8,0.01
+"Commander's Quarters",dungeon,0x01E40157,61,-20,-17.995
+"Convergent Median (40+)",dungeon,0x536B0206,56.956,-53.304,0
+"Copper Legion Keep (50+)",dungeon,0x001801C7,90,-8,0.005
+"Coral Caves",dungeon,0x003303D2,97.637,-197.395,0.005
+"Coral Tunnels",dungeon,0x02EC02BD,50,-27.765,6.005
+"Corrupted Catacombs (180+)",dungeon,0x00BA0348,121.007,-99.094,0.005
+"Count Phainor's Tomb",dungeon,0x58620396,240,-390,0.005
+"Cragstone Meeting Hall",dungeon,0x01210126,30,-60,6
+"Crater Caves Dungeon",dungeon,0x019A02CA,40,-150,0
+"Crater Lair (15+)",dungeon,0x018C0191,40,-20,0.005
+"Crater Pathway",dungeon,0x01A701AA,32.4,-8.01,138
+"Creepy Canyons (100+)",dungeon,0x00310338,150.537,-200.946,-17.995
+"Creepy Chambers",dungeon,0x004A01F3,40.123,-51.475,6.005
+"Crescent Moon Veranda",housing,0x8C000161,83.74,-93.75,0
+"Crumbling Empyrean Mansion",dungeon,0x66790275,13.6,-70,0
+"Crypt of Ashen Tears",dungeon,0x01FA034C,80,-59,6
+"Crypt of Crimson Night",dungeon,0x009B021C,40,-570,0.005
+"Crystal Core (50+)",dungeon,0x58610166,70,-220,0.005
+"Crystal Mine",dungeon,0x614902DE,30,-16.951,0.005
+"Crystal Mine Extreme (80+)",dungeon,0x564B0233,9.18582,-152.244,0.005
+"Crystal Mine High (60-79)",dungeon,0x564C0233,9.18582,-152.244,0.005
+"Crystal Mine Low (20-39)",dungeon,0x564E0233,9.18582,-152.244,0.005
+"Crystal Mine Mid (40-59)",dungeon,0x564D0233,9.18582,-152.244,0.005
+"Crystal Mine New Isparians (1-19)",dungeon,0x564F0233,9.18582,-152.244,0.005
+"Curator of Torment's Study (180+)",dungeon,0x587002FA,220,-100,0.055
+"Cursed Swamp",dungeon,0x0108020C,50,-50,0
+"Daiklos Dungeon",dungeon,0x0185020F,80,-90,0
+"Damp Caverns (5+)",dungeon,0x014D0191,70,-60,0
+"Dardante's Keep",dungeon,0x004805D4,198.943,-80.007,24.005
+"Dardante's Workshop",dungeon,0x007F02EB,10,-833,0.005
+"Dark Design (140+)",dungeon,0x002D0373,200.142,-4.32755,0.005
+"Dark Mosswart Halls",dungeon,0x017801F5,80,-110,0.005
+"Dark Tree Crystal Mine (100+)",dungeon,0x56490196,100,-90,0.005
+"Darkened Halls",dungeon,0x014401B4,30,-50,12
+"Decrepit Tower",dungeon,0x644A03AB,140,-50,0
+"Deep Caves",dungeon,0x594E0686,130,-246,0.01
+"Deep Guruk Caverns",dungeon,0x007A055C,30,-100,0.005
+"Deep Mukkir Nest (150+)",dungeon,0x005405C3,59.9318,-413.711,0.005
+"Deep Olthoi Chasm",dungeon,0x5D4C0251,-0.07,-74.2,0.005
+"Deeper Catacombs (0x574D)",dungeon,0x574D0160,140,-20,0.005
+"Deeper Catacombs (0x574E)",dungeon,0x574E0285,155.786,-30.0984,0.005
+"Deeper Catacombs (0x574F)",dungeon,0x574F0290,240.119,-25.5348,0.005
+"Deeper Catacombs (0x5750)",dungeon,0x5750028A,199.44,-40.5438,0.005
+"Deeper Catacombs (0x5751)",dungeon,0x57510251,3.87091,-90.3084,0.005
+"Deeper Catacombs (0x5752)",dungeon,0x57520260,9.80751,-126.222,0.005
+"Deeper Catacombs (0x5753)",dungeon,0x57530253,10.1896,-92.1511,0.005
+"Deeper Caves",dungeon,0x00D109C7,160,-150,-14.982
+"Deepest Caves",dungeon,0x00D102B7,160,-150,-26.982
+"Defiled Temple Asylum",dungeon,0x000A0164,20,-110,0.005
+"Defiled Temple Lower Wing",dungeon,0x00080164,20,-110,0.005
+"Defiled Temple Middle Wing",dungeon,0x01EC0164,20,-110,0.005
+"Defiled Temple Upper Wing",dungeon,0x00090164,20,-110,0.005
+"Demon Swarm Matron",dungeon,0x00B60129,220,-193,-11.995
+"Dericost Ruin",dungeon,0x015F0223,90,-90,0.005
+"Dericost Vault",dungeon,0x0071045A,80,-230,0.005
+"Desert Citadel",dungeon,0x61480152,140,-130,0
+"Desert Dwelling (180+)",dungeon,0x58630252,181.62,-80.047,21.511
+"Desert March",dungeon,0x02AA022F,50,-500,30
+"Desert Mine",dungeon,0x0182017B,40,-30,0
+"Desert Ruin",dungeon,0x016701A7,110,-40,6
+"Deserted Ruin",dungeon,0x0166015A,10,-30,18
+"Device Room",dungeon,0x00C0019C,80,-90,0.005
+"Disaster Maze (20+)",dungeon,0x01A60214,90,-30,0
+"Dragon's Power (35+)",dungeon,0x644901A3,416.14,-70.4372,-5.995
+"Drudge Hideout",dungeon,0x019E0114,10,-40,0
+"Drudge Hovel",dungeon,0x01180237,102.031,-290.037,6.005
+"Dry Well",dungeon,0x015A01AE,10,-90,0
+"Dulok Court",housing,0x8B000161,83.74,-93.75,0
+"Dungeon Binar",dungeon,0x018301AF,60,-50,0
+"Dungeon Fern",dungeon,0x01B30116,39.7,-0.2,0
+"Dungeon Gallery Tower",dungeon,0x01AD0116,29.94,-32.6,0
+"Dungeon Maggreth",dungeon,0x014F01B9,30,-60,-12
+"Dungeon Manor",dungeon,0x01E801BA,-0.6,-38.5,0
+"Dungeon Mei",dungeon,0x0184014B,60,-80,0
+"Dungeon Muddy (5+)",dungeon,0x01B60100,0.24,-0.7,0
+"Dungeon Nye",dungeon,0x01810161,101.35,-146,0
+"Dungeon of Corpses",dungeon,0x01090160,30,-20,0
+"Dungeon of Shadows",dungeon,0x01ED0310,120,0,12
+"Dungeon of Tatters",dungeon,0x01BA0186,64.95,-50.27,0
+"Eagle's Sight",dungeon,0x5F45011E,69.9038,-32.7901,0.005
+"East Fork Dam Hive",dungeon,0x027F0234,30,-60,6
+"Eastern Aerlinthe Island",dungeon,0xBAE80106,15.8,107.8,-1.8
+"Eastern Catacombs",dungeon,0x00D30535,120,-210,-11.995
+"Eastern Temple Catacombs (100+)",dungeon,0x004D06E5,90.0044,-247.809,0.05
+"Eastham Meeting Hall",dungeon,0x01220126,30,-60,6
+"Eastham Sewer (50+)",dungeon,0x01CF0237,119.625,-163.107,6.005
+"Eater Pit",dungeon,0x001F0286,121,-250,0.005
+"Effigy Foundry",dungeon,0x545901B0,10,-80,6.005
+"Egg Orchard (140+)",dungeon,0x002B0371,458.535,-172.203,0.005
+"Egg Orchard East (140+)",dungeon,0x00640371,458.535,-172.203,0.005
+"Egg Orchard West (140+)",dungeon,0x00C80371,458.535,-172.203,0.005
+"Eldrytch Web Gauntlet (180+)",dungeon,0x596B0110,120,-80,0.005
+"Electric Destruction",dungeon,0x5A450109,20,-10,0
+"Elemental Caverns",dungeon,0x5F470412,170,-139.985,0.07557
+"Empyrean Acid Propylaeum (50+)",dungeon,0x526E014B,30,0,0
+"Empyrean Cloister (15+)",dungeon,0x02AD0108,78.2,-100.4,-48
+"Empyrean Facility Upper Level (75+)",dungeon,0x890402C4,50,0,23.5124
+"Empyrean Fire Propylaeum (25+)",dungeon,0x5270014B,30,0,0
+"Empyrean Foundry (100+)",dungeon,0x013602B6,40,-130,0
+"Empyrean Garrison",dungeon,0x01610264,80,-80,0
+"Empyrean Ice Propylaeum (25+)",dungeon,0x5272014B,30,0,0
+"Empyrean Lightning Propylaeum (50+)",dungeon,0x5274014B,30,0,0
+"Empyrean Workshop (125+)",dungeon,0x006E055E,104.056,-44.0326,0.005
+"End of the Story",dungeon,0xCD410105,155.746,112.803,59.605
+"Endara Gate",housing,0x85000161,83.74,-93.75,0
+"Enkindled Souls",dungeon,0x014101A6,70,-170,0
+"Enlightened Master's Chambers (0x0057)",dungeon,0x005701EC,590,-200,0.005
+"Enlightened Master's Chambers (0x007B)",dungeon,0x007B01EC,590,-200,0.005
+"Entropic Decay",dungeon,0x59450147,79.75,-99,0.005
+"Escape Route",dungeon,0x0B700118,74.023,100.849,90.089
+"Essence Chambers",dungeon,0x008C0121,70,-42,-5.995
+"Facility Hub",dungeon,0x8A020212,58.6391,-89.9231,6.005
+"Falatacot Depot (150+)",dungeon,0x585E0101,0,-40,0.005
+"Falatacot Temple (200+)",dungeon,0x665E021E,30,-130.78,0.019191
+"Falatacot Vault",dungeon,0x007201E4,30,-130,-5.995
+"Falcon Clan Training Camp",dungeon,0x5777040D,241.9,0.190061,0.005
+"Fathomless Chasm (20+)",dungeon,0x545E01DD,20,-80,0
+"Fathomless Chasm Abyss",dungeon,0x54600349,250,-100,42
+"Fathomless Chasm Clough",dungeon,0x545F0288,40,-60,24.288
+"Fathomless Chasm Descent",dungeon,0x54600347,50,-200,36.2778
+"Fathomless Chasm Devex",dungeon,0x545E0295,250,-39.8261,23.9461
+"Fathomless Chasm Plummet",dungeon,0x545F028B,150,-60,36.396
+"Fear Factory (180+)",dungeon,0x587701F7,176.062,-114.658,0.055
+"Feeding Tubes (130+)",dungeon,0x002E02D1,110.562,-336.795,0.005
+"Fenmalain Vestibule (20+)",dungeon,0x02DB0306,150,-16,12
+"Festivus Court",housing,0x93000161,83.74,-93.75,0
+"Fiery Alcove (180+)",dungeon,0x586502CF,40,-140,0.005
+"Fiery Consumption",dungeon,0x58450147,79.75,-99,0.005
+"Filos' Doom",dungeon,0x0150018A,30,0,0
+"Fire Guardian Lair (40-59)",dungeon,0x5843014A,47.9531,-2.5,6.005
+"Fire Ziggurat (60-79)",dungeon,0x59460104,20,-20,0.005
+"Firebird's Splendor (35+)",dungeon,0x644902D1,290.074,-44.179,0.005
+"Firey Refuge (150+)",dungeon,0x576901A9,60,-30,0.01
+"Floating Spire",dungeon,0x287A0100,180,152,500
+"Folthid Cellar",dungeon,0x013B0333,60,-80,0
+"Font of the Eternal Harvester",dungeon,0x00380285,20,-40,0.005
+"Forbidden Crypts",dungeon,0x013D02D5,60,-10,-18
+"Forge Conveyance",dungeon,0x644501A1,50,-10,0.005
+"Forgotten Chasm (130+)",dungeon,0x002C029C,204.144,-134.762,0.005
+"Forgotten Temple",dungeon,0x015101FE,70,-60,30
+"Forgotten Tunnels",dungeon,0x8B020292,260,-20,18.005
+"Forking Trail",dungeon,0x01AB0137,37.63,-29.99,0
+"Forsaken",dungeon,0xF4260102,111.5,91.6,-4.8
+"Forsythian Gardens",housing,0x7E000161,83.74,-93.75,0
+"Fortified Royal Vault",dungeon,0x001402D6,0,-10,0.005
+"Fortified Vault Sewers",dungeon,0x000F02EE,110,0,0.005
+"Foundry of Izexi (200+)",dungeon,0x585604EA,53.3024,-316.298,2.06621
+"Freebooter Keep",dungeon,0xF92F0293,63.7124,66.072,124.805
+"Frigid Grotto (150+)",dungeon,0x584D035A,140,-120,6.005
+"Frost Guardian Lair (20-39)",dungeon,0x5743014A,47.9531,-2.5,6.005
+"Frost Ziggurat (80-149)",dungeon,0x5A460104,20,-20,0.005
+"Frozen Cenotaph",dungeon,0x003701CC,40,-10,0.005
+"Frozen Library",dungeon,0x02FE044E,89.8631,-299.018,0.005
+"Frozen Recess (180+)",dungeon,0x595E02B4,400,-100,0.005
+"Frozen Refuge (150+)",dungeon,0x5770015B,20.7438,-49.8883,0.01
+"Frozen Tomb",dungeon,0x77E702E4,25.1647,31.3589,124.805
+"Frozen Wight Lair",dungeon,0x8B040173,3.3374,-59.9919,-47.995
+"Gajin Dwellings",housing,0x76000161,83.74,-93.75,0
+"Gardens of Menilesh (150+)",dungeon,0x00E70283,80,-60,48.005
+"Gelidite Library",dungeon,0x546401AE,60,-70,0.005
+"Geraine's Study",dungeon,0x93020171,100,-150,0.005
+"Gerent's Compound (40+)",dungeon,0x594C0143,50,-10,5.995
+"Glenden Wood Dungeon",dungeon,0x01E3033D,161,-150,0
+"Glenden Wood Meeting Hall",dungeon,0x01230126,30,-60,6
+"Gold Legion Keep (80+)",dungeon,0x00190105,90,-23,0.005
+"Golem Burial Ground (10+)",dungeon,0x01B40130,87.0588,-6.76988,0.005
+"Golem Sanctum",dungeon,0x02E10290,310,-260,-12
+"Grael's Chamber (0x0074)",dungeon,0x00740586,279.799,-212.783,18.005
+"Grael's Chamber (0x0076)",dungeon,0x007604D0,279.799,-212.783,18.005
+"Grael's Chamber (Fort Tethana)",dungeon,0x007504C6,279.799,-212.783,18.005
+"Graveyard",dungeon,0x482E0140,22.1693,83.0472,3.66
+"Graveyard Tomb",dungeon,0x482E0101,67.5,61.5,-0.39
+"Great Hall",dungeon,0x665E01D0,259.73,-209.475,-5.915
+"Greater K'nath Lair",dungeon,0x01930187,320,-10,0.005
+"Gredaline Consulate (25+)",dungeon,0x029B0318,280,-300,6
+"Green Mire Grave",dungeon,0x01E5020E,80.915,-69.263,0
+"Grievous Vault (10+)",dungeon,0x01890321,139.792,-66.582,6.005
+"Grievver Caves",dungeon,0x545602A0,110,-20,0
+"Gromnie Clan Training Camp",dungeon,0x56430381,30.2209,-71.2641,6.005
+"Grub Quarters",dungeon,0x586A011D,60,-190,0.055
+"Hagra's Holdfast",dungeon,0x003901E0,110,-30,0.005
+"Hall of Karlun (40+)",dungeon,0x0021013E,19.9532,-138.778,0.005
+"Halls",dungeon,0x017F010F,10,-300,0.005
+"Halls of Metos (15+, Ayan Baqur)",dungeon,0x02F40297,100,-330,0
+"Halls of Metos (15+, Tufa)",dungeon,0x02F30297,100,-330,0
+"Halls of Metos (15+, Wai Jhou)",dungeon,0x02F50297,100,-330,0
+"Halls of the Helm (10+)",dungeon,0x01CC01E5,70.5,-71,12
+"Halls of the Lost Light",dungeon,0x01CE01C9,49.54,-6.8,0
+"Harraag's Lair",dungeon,0x006004BF,120,-20,0
+"Hasina Gardens",housing,0x7B000161,83.74,-93.75,0
+"Haven Residential Halls",housing,0x56560140,40,-70,0
+"Heart of Madness",dungeon,0x002002D2,60,-30,0.005
+"Heartland Yard",housing,0x78000161,83.74,-93.75,0
+"Hebian-to Meeting Hall",dungeon,0x01240126,30,-60,6
+"Hebian-to Sewers (4+)",dungeon,0x01CA027F,40,-177.4,0
+"Hibiscus Gardens",housing,0x94000161,83.74,-93.75,0
+"Hidden Cavern (80+)",dungeon,0x5F4802CC,230,-71.25,0.005
+"Hidden City (50+)",dungeon,0x02D602CE,0.34,-79.85,0.005
+"Hidden Dungeon",dungeon,0x536A0282,0,-120,0.005
+"Hidden Laboratory (150+)",dungeon,0x00A402A1,70,-70,0.005
+"Hieromancers' Halls",dungeon,0x02A90148,80,-240,-42
+"Hills Citadel",dungeon,0x02F00152,140,-130,0
+"Hive Eviscerator Burrow (200+)",dungeon,0x586D03E2,90,-200,0.05
+"Hive Warrior Mound (200+)",dungeon,0x586E041E,69.86,-45.17,0.005
+"Hollow Lair near Lytelthorpe (20+)",dungeon,0x039C0202,90.2,-51,0
+"Holtburg Dungeon",dungeon,0x01F60289,96.7,-10,0
+"Holtburg Meeting Hall",dungeon,0x01250126,30,-60,6
+"Holtburg Redoubt (1-20)",dungeon,0x016301AC,140,-40,0
+"Hoshino Tower (200+)",dungeon,0x66510103,21.3412,-21.5515,0.01
+"Humid Font",dungeon,0x017603D3,50,-50,0
+"Humid Guruk Caverns",dungeon,0x0078055C,30,-100,0.005
+"Humid Hovel",dungeon,0x02E4017E,133.337,-1.86382,0
+"Hunter's Leap",dungeon,0x01C60181,18.566,0.78,0
+"Icy Demise",dungeon,0x57450109,20,-10,0.005
+"Icy Hideout",dungeon,0x0033040F,739.915,-233.14,0.005
+"Idol of Wishes",dungeon,0x5F44014C,30,-40,0.005
+"Idol Spawning Grounds",dungeon,0x02B6029E,100,-50,0
+"Ikzisik Tika Ri Zikma (90+)",dungeon,0x00870353,120,-210,0.005
+"Illsin Veranda",housing,0x536201D9,83.74,-93.75,0
+"Impious Temple",dungeon,0x015E0165,80,-170,0
+"Inculcation Cells (40+)",dungeon,0x0295026D,160,-270,6
+"Incunabula Vault",dungeon,0x011A03F9,50,-349,0
+"Inner Dungeon",dungeon,0x01A5019D,20,0,6
+"Inner Sanctum (0x5954)",dungeon,0x59540144,30,-130,-41.995
+"Inner Sanctum (0x5D47)",dungeon,0x5D470183,60.6383,-20.4236,18.005
+"Inner Sanctum (0x5D48)",dungeon,0x5D480183,60.8034,-20.1706,18.005
+"Inner Stronghold",dungeon,0x1A8E0262,-75.515,275.027,148.405
+"Insatiable Vault (125+)",dungeon,0x00960321,70,-40,0.005
+"Ishaq's Cellar (80+)",dungeon,0x02EA017D,0.449236,-37.2334,6.005
+"Ispar Yard",housing,0x8E000161,83.74,-93.75,0
+"Ivory Gate",housing,0x79000161,83.74,-93.75,0
+"Jade Gate",housing,0x8D000161,83.74,-93.75,0
+"Jahannan Vault",dungeon,0x011B014B,80,-57.35,-65.99
+"Jojii Gardens",housing,0x88000161,83.74,-93.75,0
+"Judging Station",dungeon,0x02E3015A,60.4,-55.6,12.1
+"Jungle Shadows",dungeon,0x02BB0197,108.385,-88.606,24
+"Khayyaban Meeting Hall",dungeon,0x01260126,30,-60,6
+"Killagurg",dungeon,0x00B6010E,30,-192.812,-12
+"Knath Lair",dungeon,0x0193012A,40,-10,0
+"Kor-Gursha",dungeon,0x009C0247,160,-70,-17.995
+"Krau Li's Labyrinth (25+)",dungeon,0x02E5024A,110,-240,0
+"Laboratory",dungeon,0x594F0277,79.7348,-119.984,0.005
+"Labyrinth",dungeon,0x54630328,150,-70,0
+"Lair of Death (15+)",dungeon,0x01AA01EC,20,-50,0.005
+"Lair of the Ancient Queen",dungeon,0x614A046E,90,-120,0.005
+"Lair of the Eviscerators (50+)",dungeon,0x027D02AA,120,-20,0
+"Lakeside Lair",dungeon,0x01AF012C,60,-40,0
+"Land Bridge Staging Complex (32+)",dungeon,0x029802A5,200,-10,12
+"Large Mnemosyne Collection Site",dungeon,0x029D010C,100,0,0
+"Larkspur Gardens",housing,0x73000161,83.74,-93.75,0
+"Legend of the Tusker King",dungeon,0x5F4301D6,20.1621,-85.912,0.005
+"Lightless Catacombs",dungeon,0x019B0161,60,-50,0
+"Lightless Tunnels",dungeon,0x02C60200,60,-60,-6
+"Lightning Guardian Lair (80-149)",dungeon,0x5A43014A,47.953,-2.5,6.005
+"Lightning Ziggurat (20-39)",dungeon,0x57460104,20,-20,0.005
+"Lin Meeting Hall",dungeon,0x01270126,30,-60,6
+"Linvak Tukal Entryway",dungeon,0x029C010C,10,-300,0
+"Lola's Den (0x01EB010D)",dungeon,0x01EB010D,119.995,-40.0684,-65.995
+"Lola's Den (0x01EB0118)",dungeon,0x01EB0118,150,0,-65.995
+"Lola's Den (0x01EB0124)",dungeon,0x01EB0124,179.978,-5.99679,-65.995
+"Lola's Den (0x01EB0135)",dungeon,0x01EB0135,220,-34.7275,-65.995
+"Lonely Fortress",dungeon,0x00A50108,110,-400,-59.99
+"Lost City of Frore",dungeon,0x01380180,40,-280,-6
+"Lost Coastal Archive",dungeon,0x003501E5,220,-10,0.006
+"Lost Desert Archive",dungeon,0x0036013C,0,-10,0
+"Lost Distillery",dungeon,0x016401F1,115.522,-77.617,0
+"Lost Garden Ruins",dungeon,0x01B102BD,39.52,-8,6
+"Lost Ruins (150+)",dungeon,0x5765036C,20,-56.6975,0.005
+"Lower Chakron Flux",dungeon,0x02AF0345,170,0,0
+"Lower Corridor",dungeon,0x614402AD,136.937,-129.667,-52.509
+"Lower Empyrean Acid Cistern",dungeon,0x526D0251,150,-120,0
+"Lower Empyrean Fire Cistern",dungeon,0x526F01FD,60,-126,0
+"Lower Empyrean Ice Cistern",dungeon,0x527101FD,60,-126,0
+"Lower Empyrean Lightning Cistern",dungeon,0x52730254,100,-140,0
+"Lower Empyrean Mausoleum",dungeon,0x02AC02EF,640.2,-140.5,0
+"Lower Heart of Darkness",dungeon,0x02B201FB,170,-210,6
+"Lower Shade Stronghold",dungeon,0x02B10138,220,-150,-240
+"Lugian Excavations",dungeon,0x02E70285,10,-550,18
+"Lugian Ice Tunnels (80+)",dungeon,0x001C0105,0,-64,0.005
+"Lugian Mines",dungeon,0x02E9020C,150,-20,0
+"Lugian Outpost",dungeon,0x01C70121,39.73,-49.79,0
+"Lugian Post",dungeon,0x01C80111,20,-60,0
+"Lugian Quarry",dungeon,0x02E80232,80,-530,0
+"Lytaway",dungeon,0x015801BC,30,-10,42
+"Lytelthorpe Meeting Hall",dungeon,0x01280126,30,-60,6
+"Mage Academy (150+)",dungeon,0x01390396,40,-60,6
+"Magical",dungeon,0x015D0187,199.84,-75.84,-5.99
+"Mainland",dungeon,0xBA110101,86,36,118
+"Malignant Tabernacle (40+)",dungeon,0x536C0280,70,-60,0
+"Mammet Foundry",dungeon,0x5458025F,10,-110,6.005
+"Mannikin Foundry",dungeon,0x545A013C,10,-50,6.005
+"Mansion Dungeon",dungeon,0x5651038E,77.3194,-140.167,-5.995
+"Marauder's Lair",dungeon,0x0197035D,327.517,-163.124,0.005
+"Marin Court",housing,0x536301D9,83.74,-93.75,0
+"Martinate Holding",dungeon,0x027E0104,120,-20,-12
+"Martine's Retreat",dungeon,0x56600187,149.882,-10.7176,0
+"Maru Veranda",housing,0x7D000161,83.74,-93.75,0
+"Mask Clan Training Camp",dungeon,0x56440103,1.14627,-69.928,-41.995
+"Masked Preface (180+)",dungeon,0x586C0406,190,-390,0.055
+"Massilor's Crypt (180+)",dungeon,0x472D0107,282,199,-25.6
+"Master Alizari's Dig (40-59)",dungeon,0x004002E0,40,-10,0.005
+"Master Vaserio's Dig (100+)",dungeon,0x0043031D,250,-32,0.005
+"Master's Quarters",dungeon,0x586A0157,300,-40,0.055
+"Matron Hive East (120+)",dungeon,0x6146036E,140.042,-182.837,0.005
+"Matron Hive North (60+)",dungeon,0x6347036E,140.042,-182.837,0.005
+"Matron Hive South (40+)",dungeon,0x6346036E,140.042,-182.837,0.005
+"Matron Hive West (90+)",dungeon,0x6145036E,140.042,-182.837,0.005
+"Mattekar Cave",dungeon,0x01690183,110.2,-8.3,0
+"Mayoi Meeting Hall",dungeon,0x01290126,30,-60,6
+"Meditation Gardens",housing,0x95000161,83.74,-93.75,0
+"Mellas Court",housing,0x74000161,83.74,-93.75,0
+"Mines of Despair",dungeon,0x01880307,30,-70,0
+"Mistress Gabille's Dig (80-99)",dungeon,0x00420292,320,-10,0.005
+"Mistress Halmera's Dig (60-79)",dungeon,0x00410160,160,-10,0.005
+"Mite Maze",dungeon,0x01F801D4,6.1,-101.6,0
+"Mite Tunnels",dungeon,0x01A401E6,30,-120,0
+"Mnemosyne Collection Site",dungeon,0x029D0100,0,0,0
+"Moars",dungeon,0x02BA01F8,120,-70,0
+"Moars Laboratory",dungeon,0x02B301F6,92.5088,-41.736,24.005
+"Moarsmen Hideout",dungeon,0x02C4023F,90,-10,6.005
+"Moarsmen Muck",dungeon,0x02C201E6,80,-60,0.005
+"Moarsmen Priory",dungeon,0x00DC016C,0,-55.0173,-5.995
+"Moarsmen Spawning Grounds",dungeon,0x02B502C1,120,-260,0.005
+"Moist Hovel",dungeon,0x02B90185,100.213,-1.54058,0.005
+"Moss Chamber (0x02A3)",dungeon,0x02A30101,0,-10,0
+"Moss Chamber (Zaikhal)",dungeon,0x01DB01DC,60,-60,0
+"Mosswart Maze",dungeon,0x02CA0247,130,-220,0
+"Mosswart Nest",dungeon,0x02BC0145,110,-60,0
+"Mosswart Worship Cavern (80+)",dungeon,0x00B501FF,9.94285,-189.897,0.005
+"Mossy Cave (0x03FE)",dungeon,0x03FE0228,150.234,-211.5,3.98472
+"Mossy Cave (20+)",dungeon,0x0177014F,30,-40,0
+"Mount Elyrii Hive (70+)",dungeon,0x03A7010F,200,-10,-84
+"Mount Ingot",dungeon,0x64480185,50,-32.766,-1.256
+"Mount Lethe Magma Tubes",dungeon,0x0146029B,70,-20,0
+"Mount Naipenset Caverns",dungeon,0x014701E9,10,-130,0
+"Mountain Citadel",dungeon,0x61470152,140,-130,0
+"Mountain Fortress (100+)",dungeon,0x011C030A,90,-200,0
+"Mountain Halls",dungeon,0x019201A8,19.855,-29.907,0
+"Mountain Keep",dungeon,0x01D202F7,47.9,-69.9,12
+"Mountain Sewer (15+)",dungeon,0x01910213,99.986,-198.994,0
+"Mud Cave",dungeon,0x02C1017E,138.298,-28.02,6.005
+"Muggy Font",dungeon,0x017503D3,50,-50,0
+"Muggy Guruk Caverns",dungeon,0x0077055C,30,-100,0.005
+"Mukkir-Infested Black Spear Temple (151+)",dungeon,0x0076046B,91.533,-58.586,0.005
+"Murk Warrens (Baishi)",dungeon,0x01000121,40,-260,0
+"Murk Warrens (Stonehold)",dungeon,0x01020121,40,-260,0
+"Murk Warrens (Zaikhal)",dungeon,0x01010121,40,-260,0
+"Musansayn's Vaults",dungeon,0x01550198,20,-10,12
+"Mutilator Tunnels (80+)",dungeon,0x667A0240,98.7361,-159.333,0
+"Mysterious Cave (15+)",dungeon,0x014A0141,-1.21815,-47.6649,0.005
+"Mysterious Tunnels (1-20)",dungeon,0x010C01DB,80,-70,0
+"Nanjou Shou-jen Academy",dungeon,0x576602B8,390,-80,0.01
+"Nanto Meeting Hall",dungeon,0x012A0126,30,-60,6
+"Nanto Rat Lair",dungeon,0x015C0101,3.272,-32.811,0
+"Nevius Passage (8+)",dungeon,0x014C0158,170,-170,0
+"Nexus (100+)",dungeon,0x011002E1,40,-250,24
+"Nor's Folly",dungeon,0x01070166,60,-30,0
+"North Fork Dam Hive",dungeon,0x03A60102,51,-50,-42
+"North Glenden Prison (80+)",dungeon,0x01E401FE,42,-14,6.005
+"North Tumerok Vanguard Outpost (50+)",dungeon,0x02A50296,60,-680,6
+"Northern Catacombs",dungeon,0x00D20535,120,-210,-11.995
+"Northern Infiltrator Keep (25+)",dungeon,0x03A30201,70,-590,0
+"Northern Power Forge (40+)",dungeon,0x00040100,0,-170,6.005
+"Northern Temple Catacombs (100+)",dungeon,0x004E054A,40,-280,0.005
+"Northwatch Castle",dungeon,0x9EE50293,104.166,30.0497,58.805
+"Nuhmudira's Dungeon",dungeon,0x536D0289,149.243,-129.946,-5.995
+"Nuhmudira's Mansion",dungeon,0xAC7A0151,58.86,77.605,-3.995
+"Old Mine",dungeon,0x019001F3,18,-12.5,0
+"Old Talisman Dungeon",dungeon,0x01EA041E,60,-60,54
+"Old Warehouse",dungeon,0x0165015B,40,-20,0
+"Olthoi Arcade (0x5D49)",dungeon,0x5D49014D,90,0,0.005
+"Olthoi Arcade (Redspire)",dungeon,0x5B43041A,80,-7.5,0
+"Olthoi Arcade Central",dungeon,0x5B440379,30,-10,-11.995
+"Olthoi Brood Hive (20+, 0x5773)",dungeon,0x57730439,130,-110,0.005
+"Olthoi Brood Hive (20+, Arwic)",dungeon,0x57720439,130,-110,0.005
+"Olthoi Brood Hive (40+, 0x5E49)",dungeon,0x5E490435,18.8143,-12.6949,0.005
+"Olthoi Brood Hive (40+, 0x5E4B)",dungeon,0x5E4B0435,18.8143,-12.6949,0.005
+"Olthoi Brood Hive (60+, 0x5E48)",dungeon,0x5E48043D,30,0,0.005
+"Olthoi Brood Hive (60+, 0x5E4A)",dungeon,0x5E4A043D,30,0,0.005
+"Olthoi Brood Hive (80+, 0x584B)",dungeon,0x584B04F1,65.6376,-11.5578,0.005
+"Olthoi Brood Hive (80+, 0x584C)",dungeon,0x584C04F1,65.6376,-11.5578,0.005
+"Olthoi Chasm (20+)",dungeon,0x5D4A0342,70,-18.4296,0.005
+"Olthoi Horde Nest (20+)",dungeon,0x02FB03B4,90,-650,0.005
+"Olthoi Horde Nest (30+, 0x02FC)",dungeon,0x02FC03A6,90,-650,0.005
+"Olthoi Horde Nest (30+, 0x02FD)",dungeon,0x02FD03A6,90,-650,0.005
+"Olthoi Sanctuary",dungeon,0x00AA0269,39.5543,-27.4571,0.01
+"Olthoi Tunnel",dungeon,0xC7EA0100,12,36,-0.904248
+"Olthoi Tunnels (15+)",dungeon,0x018D01C5,60,-20,-17.995
+"Olthoi Warrior Nest (70+)",dungeon,0x667801DC,30.02,-75.71,0
+"Oriel Residential Halls",housing,0x565E0140,40,-70,0
+"Origin Quarters",dungeon,0x586A01AA,540,-190,0.055
+"Oubliette",dungeon,0x54620104,11.5,2.25,0
+"Outer Courtyard (0x8004)",dungeon,0x800402C3,118.307,-141.996,0.005
+"Outer Courtyard (0x8703)",dungeon,0x870302C3,118.717,-141.203,0.005
+"Outer Courtyard (0x8C04)",dungeon,0x8C0402C3,118.717,-141.203,0.005
+"Palenqual's Caverns",dungeon,0x028E0330,90,-70,0
+"Panopticon (32+)",dungeon,0x02A10166,260,0,-36
+"Paradox-Touched Olthoi Queen's Lair",dungeon,0xC7B7011B,-108.681,61.0247,96.4
+"Path of Rage (180+)",dungeon,0x587903EA,229.987,-121.558,-17.8345
+"Path of Sorrows (180+)",dungeon,0x58790255,180,-220,-29.895
+"Path of the Blind (140+)",dungeon,0x002A034A,52.8552,-248.075,0.005
+"Path of the Blind East (140+)",dungeon,0x00E1034A,52.8552,-248.075,0.005
+"Path of the Blind West (140+)",dungeon,0x004B034A,52.8552,-248.075,0.005
+"Path of Torment (180+)",dungeon,0x5879052B,130,-110.381,0.005
+"Penguin Cave Hatchery (90+)",dungeon,0x01CB0360,4.058,-43.933,66.005
+"Penguin Den",dungeon,0x02DD019B,100.09,-229.548,0.005
+"Pheraion's Sanctum (120+)",dungeon,0x0083026E,20,-360,0.005
+"Phyntos Menace",dungeon,0x0143010A,0,-80,0
+"Planar Academy Headmaster's Rooms",dungeon,0x00D60430,60,-66.4038,60.005
+"Planar Academy Lecture Hall",dungeon,0x00D603F9,60,-126.703,48.005
+"Plated Rifts (75+)",dungeon,0x5B49027E,180.208,-103.516,0.005
+"Platinum Legion Keep (100+)",dungeon,0x001A017A,190,-70,0.005
+"Presk's Bunker (180+)",dungeon,0x59510139,190,-220,0.055
+"Presk's Treasury",dungeon,0x5951010F,70,-100,0.005
+"Prismatic Devastation",dungeon,0x58530109,20,-10,0.005
+"Prismatic Guardian Lair (150+)",dungeon,0x5850014A,47.9531,-2.36641,6.005
+"Prismatic Ziggurat (150+)",dungeon,0x58510104,20,-20,0.005
+"Private Chambers",dungeon,0x654D04DA,90,-120,0.01
+"Prodigal Shadow Child's Lair",dungeon,0x00E60422,190,-50,0.005
+"Proving Grounds Extreme (0x5A4401A0)",dungeon,0x5A4401A0,20,-108,0.005
+"Proving Grounds Extreme (0x5A4401D5)",dungeon,0x5A4401D5,110,-130,0.005
+"Proving Grounds Extreme (0x5A4401E9)",dungeon,0x5A4401E9,20,-33.2,6.7
+"Proving Grounds High (0x594401A0)",dungeon,0x594401A0,30,-108,0.005
+"Proving Grounds High (0x594401D5)",dungeon,0x594401D5,110,-130,0.005
+"Proving Grounds High (0x594401E9)",dungeon,0x594401E9,20,-33.2,6.7
+"Proving Grounds Low (0x574401A0)",dungeon,0x574401A0,30,-108,0.005
+"Proving Grounds Low (0x574401D5)",dungeon,0x574401D5,110,-130,0.005
+"Proving Grounds Low (0x574401E9)",dungeon,0x574401E9,20,-33.2,6.7
+"Proving Grounds Mid (0x584401A0)",dungeon,0x584401A0,30,-108,0.005
+"Proving Grounds Mid (0x584401D5)",dungeon,0x584401D5,110,-130,0.005
+"Proving Grounds Mid (0x584401E9)",dungeon,0x584401E9,20,-33.2,6.7
+"Proving Grounds Uber (0x5852019F)",dungeon,0x5852019F,30.0173,-110.481,0.005
+"Proving Grounds Uber (0x585201DA)",dungeon,0x585201DA,110.062,-131.85,0.005
+"Proving Grounds Uber (0x585201F4)",dungeon,0x585201F4,20.0338,-33.2001,6.005
+"Qalaba'r Meeting Hall",dungeon,0x012B0126,30,-60,6
+"Queen's Quarters",dungeon,0x586B02FC,238,-298,0.01
+"Queen's Treasury",dungeon,0x586B0106,210,-10,-59.91
+"Radiant Blood Gauntlet (180+)",dungeon,0x596B010F,120,-10,0.005
+"Radiant Blood Stronghold (180+)",dungeon,0x00B90294,110,-20,0.005
+"Rampage Bluff (80+)",dungeon,0x5C48011E,60.1817,-5.89785,0.005
+"Ravaged Cathedral (100+)",dungeon,0x001601CA,12.2668,-59.989,12.005
+"Ravenous Vault (110+)",dungeon,0x039D02A4,99.8339,-48.9272,48.005
+"Realaidain Eastern Vault",dungeon,0x005001E9,480,-330,0.006
+"Realaidain Northern Vault",dungeon,0x005003B5,240,-467,12.006
+"Realaidain Western Vault",dungeon,0x00500173,30,-700,0.006
+"Reaving Facility",dungeon,0x3FB10175,276,-229,-39.595
+"Recovered Temple",dungeon,0x0142017F,50,-60,6
+"Reedshark Clan Training Camp",dungeon,0x577A036C,140,-200,0.005
+"ReedShark Lair (4+)",dungeon,0x01FC0114,18.9,-58.9,0
+"Reinforced Royal Vault",dungeon,0x001302D6,0,-10,0.005
+"Reinforced Vault Sewers",dungeon,0x000E02EE,110,0,0.005
+"Remote Empyrean Vault (40+)",dungeon,0x000102C6,60,0,0.005
+"Renegade Fortress (0x00CC)",dungeon,0x00CC0101,30.088,-65.7754,-23.995
+"Renegade Fortress (0x6248)",dungeon,0x624803E8,90,-190.593,0.005
+"Renegade Garrison (40+)",dungeon,0x60490326,50,-112.929,0.1
+"Renegade Incursion (50+)",dungeon,0x003001A7,1.39887,-127.964,0.005
+"Repository (125+)",dungeon,0x0047039C,60,-228.903,0.004999
+"Research Chambers Conveyance",dungeon,0x644303AD,70,-180,0.005
+"Ridge Citadel",dungeon,0x02F10152,140,-130,0
+"Rithwic Crypt",dungeon,0x01CD0144,39.87,-52.8,0
+"Rithwic Meeting Hall",dungeon,0x012C0126,30,-60,6
+"Rocky Crypt (10+)",dungeon,0x01B50101,3.1913,-70,0.005
+"Rogue Delvings (180+)",dungeon,0x00E001A0,160,-220,0.005
+"Roots of Skuld, Urd and Verdandi",dungeon,0x24C0067C,-24.627,33.5271,142.4
+"Roots of the Deru Tree",dungeon,0x00A8010F,44.142,0.003581,-59.99
+"Rossu Morta Chapterhouse",dungeon,0x00800128,80,-10,0.005
+"Royal Hive",dungeon,0x02880280,90,-20,-12
+"Ruadnar Court",housing,0x536401D9,83.74,-93.75,0
+"Ruined Cave Outpost",dungeon,0x0152024B,58.7,-88.7,0
+"Ruined Empyrean Vault (70+)",dungeon,0x01940119,80,-40,0.005
+"Rumuba's Hidey-Hole",dungeon,0x02B802B3,200,-270,7
+"Ruschk Burial Mound",dungeon,0x00E202FA,80,-20,0.005
+"Ruschk Iceberg (70+)",dungeon,0x02DE02BE,160.005,-279.729,0.005
+"Ruschk Icehold (80+)",dungeon,0x001D012F,170,-18,0.005
+"Rynthid Foundry (180+)",dungeon,0x58760207,220,-130,7.5
+"Rynthid Genesis (180+)",dungeon,0x58750294,180,-109.111,6.5
+"Saadia's Retreat",dungeon,0x013F01C5,10,-60,6
+"Samsur Meeting Hall",dungeon,0x012D0126,30,-60,6
+"Samurai Hausu",dungeon,0x586401F7,140,-14.809,0.105
+"Sanctuary of the Recluse (180+)",dungeon,0x586601D1,314.996,-222.037,0.05
+"Sanctum Residential Halls",housing,0x54650140,40,-70,0
+"Sand Caves",dungeon,0x5760047D,150.03,-68.1271,23.006
+"Sand Shallow",dungeon,0x02A002F5,290,-340,0
+"Sawato Meeting Hall",dungeon,0x012E0126,30,-60,6
+"Sclavus Cathedral (0x02F6)",dungeon,0x02F603FA,110,-320,0
+"Sclavus Cathedral (0x02F7)",dungeon,0x02F703FA,110,-320,0
+"Sclavus Keep",dungeon,0x01860247,70,-90,6
+"Sclavus Temple",dungeon,0x604A036C,60,-50,-11.995
+"Sclavus Umbral Forge",dungeon,0x00E3040C,60,-770,0.005
+"Sea Temple Catacombs",dungeon,0x0156018F,49.1,-61.9,0
+"Seaside Lair",dungeon,0x01B0011C,37.8,-57.5,1
+"Secret Putiputi Place",dungeon,0x57740112,0.928162,-0.856308,6.005
+"Secured Royal Vault",dungeon,0x001202D6,0,-10,0.005
+"Secured Vault Sewers",dungeon,0x000D02EE,110,0,0.005
+"Seed of Anger (180+)",dungeon,0x5873019E,140,-110,12
+"Seed of Hatred (180+)",dungeon,0x58710202,180,-130,0.05
+"Seed of Misery (180+)",dungeon,0x58720120,20,-150,0.05
+"Senmai Court",housing,0x536501D9,83.74,-93.75,0
+"Serac Vault",dungeon,0x01170140,-1.6,-100,-18
+"Serpent Burial Grounds (150+)",dungeon,0x584E025C,129.98,-246.16,0.01
+"Serpent Clan Training Camp",dungeon,0x5778030A,11.1162,-80.074,6.005
+"Setab's Barracks",dungeon,0x010601AF,0,-10,6
+"Setera Gardens",housing,0x96000161,83.74,-93.75,0
+"Shade Iron Mine",dungeon,0x005303B0,0,-10,0.005
+"Shadow-Infested Black Spear Temple (101-150)",dungeon,0x00750473,91.533,-58.586,0.005
+"Shadowy Refuge (150+)",dungeon,0x576E0187,80,-30,0.01
+"Shallow Olthoi Chasm",dungeon,0x5D4B0146,84.1436,-0.1,0.005
+"Shendolain Vestibule (60+)",dungeon,0x02E00461,50,-20,-30
+"Shoushi Grotto",dungeon,0x01F701ED,40,-140,0
+"Shoushi Meeting Hall",dungeon,0x012F0126,30,-60,6
+"Shreth Clan Training Camp",dungeon,0x577902E3,70,-90,-5.995
+"Shreth Hive",dungeon,0x015302E8,45.7,-43,-18
+"Sigil Veranda",housing,0x536601D9,83.74,-93.75,0
+"Silver Legion Keep (65+)",dungeon,0x001B016E,80,-10,0.005
+"Silyun Chapterhouse (80+)",dungeon,0x005201C9,40,0,0.005
+"Simple Tower",dungeon,0x019D0118,40.73,-29.92,0
+"Singular Chorizite Repository (35+)",dungeon,0x03A0027F,90,-540,0
+"Singular Obsidian Repository (45+)",dungeon,0x039F02F1,220,-330,18
+"Singular Pyreal Repository (24+)",dungeon,0x03A102B6,90,-600,0
+"Singularity Bore (50+)",dungeon,0x02910388,210,-120,6
+"Slithis Pit",dungeon,0x02C30289,140,-40,0
+"Small Complex (40+)",dungeon,0x01C00122,6.29,-56.63,0
+"Small Empyrean Vault (30+)",dungeon,0x01FE02CB,177.048,-176.394,0
+"Small Icecave",dungeon,0x01E60250,140,-190,6.1
+"Small Mnemosyne Collection Site",dungeon,0x029D0106,50,-50,0
+"Small Ruin",dungeon,0x02BD01A0,40,-50,12
+"Small Temple (0x02BE)",dungeon,0x02BE011D,50,-50,0
+"Small Temple (0x02BF)",dungeon,0x02BF011D,50,-50,0
+"Small Temple (0x02C0)",dungeon,0x02C0011D,50,-50,0
+"Smugglers Hideaway",dungeon,0x014E025C,190,-10,0
+"Sorac Gate",housing,0x7C000161,83.74,-93.75,0
+"Sorveya Court",housing,0x536701D9,83.74,-93.75,0
+"Sotiris (30+)",dungeon,0x02C90280,120,-250,0
+"Soul Hunter's Chambers",dungeon,0x007C02C1,120,-100,0.005
+"South Tumerok Vanguard Outpost (50+)",dungeon,0x02A40110,60,-20,-12
+"Southern Infiltrator Keep (25+)",dungeon,0x03A2025E,310,-10,12
+"Southern Power Forge (70+)",dungeon,0x00050100,0,-170,6.005
+"Spirit Cell",dungeon,0x564A010D,9.81431,-58.5473,0.005
+"Spirit Gate",housing,0x97000161,83.74,-93.75,0
+"Spirited Halls (180+)",dungeon,0x5878030A,260,-500,0.05
+"Stable Rift (20+)",dungeon,0x029002C9,50,0,0
+"Steaming Hovel",dungeon,0x039B0177,30,-40,6
+"Steamy Font",dungeon,0x019803D3,50,-50,0
+"Steamy Guruk Caverns",dungeon,0x0079055C,30,-100,0.005
+"Stinging Corner (180+)",dungeon,0x586503B9,320,-350,0.005
+"Stone Cathedral",dungeon,0x0154017E,30,-10,-6
+"Stone Fists",dungeon,0x00B60114,40,-43,-11.995
+"Strange Swamp Temple",dungeon,0x008603AC,70,-67.7263,6.005
+"Strange Tunnel",dungeon,0x02AB0160,110,-10,0
+"Stronghold (0x00B7)",dungeon,0x00B7010D,81.1415,-22.509,-24
+"Stronghold (0x00B8)",dungeon,0x00B8010D,80,-23.2928,-24
+"Subterannean Farm",dungeon,0x6345020B,217.088,-89.2411,0.005
+"Sultry Hovel",dungeon,0x0114018C,52.8694,-1.26897,0
+"Summoning Chamber",dungeon,0x007F018A,250,-310,-29.995
+"Swamp Cavern",dungeon,0x009D02DA,95.841,-80,0.005
+"Swamp Gardens",dungeon,0x028F013C,10,-20,0
+"Swamp Ruin",dungeon,0x01C50138,39.87,-3.15,-5.99
+"Swamp Temple (0x019C)",dungeon,0x019C02A7,100,-40,0
+"Swamp Temple (0x01A2)",dungeon,0x01A2045D,70,-70,0
+"Syliph Tower",dungeon,0x01D501C0,39.093,-13.057,66
+"Sylsfear Dungeon (10+)",dungeon,0x01D70277,59.8,-136.9,0
+"Sylvan Dwellings",housing,0x536801D9,83.74,-93.75,0
+"Syrah Dwellings",housing,0x80000161,83.74,-93.75,0
+"Tainted Grotto",dungeon,0x634C03D3,43.3208,-109.827,6.005
+"Tanada House of Breath",dungeon,0x007B0165,230,-200,0.005
+"Tanada House of Earth",dungeon,0x005701AD,440,-200,0.005
+"Tanada House of Metal",dungeon,0x0057011D,40,-200,0.005
+"Tanada House of Stone",dungeon,0x00570165,230,-200,0.005
+"Tanada House of Storms (80+)",dungeon,0x007B011D,40,-200,0.005
+"Tanada House of Water (80+)",dungeon,0x009E0218,110,-380,0.005
+"Tanada House of Wind",dungeon,0x007B01AD,440,-200,0.005
+"Tanada Temple of Black Water",dungeon,0x00CD0159,70,-240,-17.995
+"Tanada Toresen Temple (200+)",dungeon,0x6757027B,170,-170,0.01
+"Temple",dungeon,0x57560161,95.0624,-112.097,0.01
+"Temple East Wing",dungeon,0x00450415,232,-420,0.005
+"Temple North Wing",dungeon,0x00450322,60,-278,0.004999
+"Temple of Mornings",dungeon,0x8A630290,-64,159.271,-49.595
+"Temple of the Black Spear (130+)",dungeon,0x004F0343,79.9201,-34.2535,0.005
+"Temple of the Font (275+)",dungeon,0x596B012C,9.95987,-130.005,6.005
+"Temple of the Stirring Shadow (80+)",dungeon,0x004502C2,40,-420,0.006
+"Temple of the Three",dungeon,0x00E50734,70,-300,0.005
+"Temple of the Three, Ritual Chambers",dungeon,0x00E401DE,30,-100,0.005
+"Temple of Tthuun",dungeon,0x00DF02B9,119.766,-90.3525,-5.995
+"Temple of Xik Minru",dungeon,0x00F00143,20,-140,0.005
+"Temple South Wing",dungeon,0x0045032A,60,-572,0.005
+"Temple Trial",dungeon,0x594E0670,120,-170,-11.99
+"Tenkarrdun Foundry",dungeon,0x0116042F,71.28,-114,-5.995
+"Thasali",dungeon,0x01C40119,30,-110,0
+"The Asteliary (35+)",dungeon,0x03A40131,30,-10,-6
+"The Callous Heart High Grounds",dungeon,0x545D024F,80,-40,6
+"The Callous Heart Left Wing",dungeon,0x545D025A,140,-290,6.94506
+"The Callous Heart Right Wing",dungeon,0x545D024D,69.9847,-310,6.45622
+"The Colosseum",dungeon,0x00AF0118,40,-13.1651,0.005
+"The Dark Lair",dungeon,0x0283015A,10.2,-3.8,0
+"The Dark Spiral (126+)",dungeon,0x00CF055F,68.4116,-97.5995,0.005
+"The Envoy's Chamber",dungeon,0x029A01F1,170,-220,0
+"The Fazenda Caves",dungeon,0x003402A2,120,-240,0.005
+"The Floating City (0x02CB)",dungeon,0x02CB011F,10,-10,0
+"The Floating City (0x02CC)",dungeon,0x02CC010A,40,-40,0
+"The Floating City (0x02CD)",dungeon,0x02CD014F,70,-100,-24
+"The Floating City (0x02CE)",dungeon,0x02CE0140,10,-10,0
+"The Floating City (0x02CF)",dungeon,0x02CF019D,30,-70,18
+"The Floating City (0x02D1)",dungeon,0x02D101EE,60,-60,0
+"The Marketplace of Dereth",dungeon,0x016C01BC,49.206,-31.935,0.005
+"The Pit Dungeon",dungeon,0x01A302F3,39.685,-20.631,0
+"The pyramid (125+, 0x00CB0100)",dungeon,0x00CB0100,0,0,-29.995
+"The pyramid (125+, 0x00CB016E)",dungeon,0x00CB016E,160,-210,-29.995
+"The pyramid (125+, 0x00CB01DC)",dungeon,0x00CB01DC,290.007,-10.8738,-29.995
+"The Shadows",dungeon,0x7E020325,81.3159,-193.399,84.005
+"Thief Trail (7+)",dungeon,0x01BB0155,60.26,-10.54,0
+"Thieves' Den",dungeon,0x01E10272,88.46,-69.724,0
+"Thieves' Galleries (5+)",dungeon,0x0149017B,70,-30,0
+"Throne of the Tusker King",dungeon,0x5F4401A7,230.034,-136.066,0.005
+"Thrungal Den (100+)",dungeon,0x006502BA,119.957,-10.747,0.005
+"Thrungus Hole",dungeon,0x002902E7,264.295,-126.941,0.005
+"Tiny Hive (35+)",dungeon,0x028902A5,110,-20,-30
+"Tomb of The Dead",dungeon,0x01F301C6,130,-90,0
+"Top of Zabool Tower",dungeon,0x01D301BA,3.68,-9,120
+"Tower Base Dungeon (115+)",dungeon,0x56470103,68.5845,-89.9727,0.005
+"Town Network",dungeon,0x00070145,70,-80,0.005
+"Treacherous Tunnels",dungeon,0x02C502CC,161.5,-86.8,0
+"Trellyn Gardens",housing,0x84000161,83.74,-93.75,0
+"Treyval Veranda",housing,0x536901D9,83.74,-93.75,0
+"Trial of the Arm",dungeon,0x009F01D3,60,-330,-17.995
+"Trial of the Deep",dungeon,0x00A90122,0,-50,0.005
+"Trial of the Mind",dungeon,0x009F017E,80,-270,-35.995
+"Trialos",dungeon,0x01C30105,11.3,-72.92,0
+"Trials Graduation",dungeon,0x009F010B,100,-38.0138,-53.995
+"Trials of the Arm, Mind and Heart",dungeon,0x009F0216,70,-247.588,-5.995
+"Triumphal Gardens",housing,0x98000161,83.74,-93.75,0
+"Trophy Room (0x0074)",dungeon,0x00740549,199.324,-139.447,0.005
+"Trophy Room (0x0075)",dungeon,0x0075047C,180,-164.108,0.005
+"Trophy Room (0x0076)",dungeon,0x00760488,180,-120,0.005
+"Trothyr Hollow",housing,0x87000161,83.74,-93.75,0
+"Trothyr's Rest",dungeon,0x01FD02B5,88.76,-59.916,12
+"Tufa Meeting Hall",dungeon,0x01310126,30,-60,6
+"Tumerok Base",dungeon,0x01A1016E,120,-10,30
+"Tumerok Cave",dungeon,0x028602BF,40,-50,0
+"Tumerok Cavern",dungeon,0x02920219,34.4,-27.7,0
+"Tumerok Chamber",dungeon,0x01BC011D,53.19,-33.33,0
+"Tumerok Dungeon",dungeon,0x01A0013A,40.219,-50.724,0
+"Tumerok Fortress (20+)",dungeon,0x01BE01C2,69.6,-66.9,-6
+"Tumerok Mine (15+)",dungeon,0x01C10234,56.2,-130.46,6
+"Tumerok Outpost",dungeon,0x01BF01A3,37.45,-57.21,0
+"Tumerok Post",dungeon,0x019F0133,10,-10,0
+"Tumideon Fortress (30+)",dungeon,0x02C70198,60,-390,0
+"Tunnel of Love (120+)",dungeon,0x00320104,68.0962,-1.76758,0.005
+"Tunnels",dungeon,0x0180019E,40,-260,0.005
+"Tusker Abode (20+)",dungeon,0x5C450384,325.98,-99.5934,0.005
+"Tusker Armory (50+)",dungeon,0x594801AB,40,-170,0.005
+"Tusker Assault (85+)",dungeon,0x584902C8,100,-90,0.005
+"Tusker Barracks (40+)",dungeon,0x5A4801B5,40,-170,0.005
+"Tusker Burrow",dungeon,0x57480210,148.378,-2.8159,0.005
+"Tusker Cave (12+)",dungeon,0x5B460100,70.0456,-94.1599,-41.995
+"Tusker Cavern (15+)",dungeon,0x5C430272,90.2216,-136.362,12.005
+"Tusker Den (200+)",dungeon,0x586F029B,260,-170,0.006
+"Tusker Encampments (30+)",dungeon,0x5C440159,139.949,-86.2076,0.005
+"Tusker Food Storage",dungeon,0x5E440367,110.288,-147.132,0.005
+"Tusker Freehold (25+)",dungeon,0x58480128,77.9671,-28.5539,0.005
+"Tusker Gauntlet (100+)",dungeon,0x5C4601C1,40.088,-126.196,0.005
+"Tusker Grotto (12+)",dungeon,0x5C470183,7.22157,-179.778,0.005
+"Tusker Habitat (25+)",dungeon,0x5B470177,46.8239,-6.53167,0.005
+"Tusker Holding (60+)",dungeon,0x5B480384,325.98,-99.5934,0.005
+"Tusker Honeycombs (80+)",dungeon,0x5A49029F,234.407,0.122795,0.005
+"Tusker Lacuna (100+)",dungeon,0x5949029E,90.2216,-136.362,12.005
+"Tusker Lodge (5+)",dungeon,0x57490102,50,-150,0.005
+"Tusker Pits (45+)",dungeon,0x5A4A0275,83.3614,-140.061,0.005
+"Tusker Quarters (30+)",dungeon,0x5B4A0210,148.551,-1.84039,0.005
+"Tusker Retreat (5+)",dungeon,0x5C490138,89.8429,-116.371,0.005
+"Tusker Temple (1-20)",dungeon,0x5D4402F9,160,-130,0.005
+"Tusker Temple (20-40)",dungeon,0x5D4302F9,160,-130,0.005
+"Tusker Temple (40+)",dungeon,0x5C4A02F9,160,-130,0.005
+"Tusker Tunnels (70+)",dungeon,0x5D450231,62.0466,-2.9796,0.005
+"Tusker Warrior's Lair",dungeon,0x604304F5,40,-63.1219,6.005
+"Twisted Refuge (150+)",dungeon,0x576F01B1,40,-40,-5.99
+"Umbral Hall",dungeon,0x0179010D,100,-100,0.005
+"Undead Temple",dungeon,0x03A502E2,270,-110,0.005
+"Under-Cove Crypt",dungeon,0x01570147,0,-20,0
+"Underground City",dungeon,0x01E901AD,120,-130,-11.995
+"Underground Forest",dungeon,0x013C0201,10,-40,6
+"Underground Passage",dungeon,0x01C20123,80,-70,-24
+"Underway",dungeon,0x017E019E,40,-260,0.005
+"Unfinished Temple",dungeon,0x015B016E,30,0,6
+"Unicorn's Grace (35+)",dungeon,0x64490278,109.641,-44.281,0.005
+"Uninhabited Area",dungeon,0x02D2011F,70,-120,0
+"Upper Chakron Flux",dungeon,0x02AF0308,40,0,0
+"Upper Corridor",dungeon,0x5E450105,90.9366,-89.9171,-44.081
+"Upper Empyrean Acid Cistern",dungeon,0x526D0256,40,-30,6
+"Upper Empyrean Fire Cistern",dungeon,0x526F0246,40,-30,6
+"Upper Empyrean Ice Cistern",dungeon,0x52710257,40,-30,6
+"Upper Empyrean Lightning Cistern",dungeon,0x52730276,30,-40,6
+"Upper Empyrean Mausoleum",dungeon,0x02AC02E4,550.2,-138.1,0
+"Upper Sanctum of Xik Minru (130+)",dungeon,0x00F0052C,79.9425,-110.048,48.005
+"Upper Shade Stronghold (26+)",dungeon,0x02B10135,130,-120,-24
+"Uziz Meeting Hall",dungeon,0x01320126,30,-60,6
+"Valorya Gate",housing,0x77000161,83.74,-93.75,0
+"Vault of Eternal Slumber",dungeon,0x004E055A,40,-440,0.005
+"Venemous Nidus (40+)",dungeon,0x536E027C,90,-50,0
+"Venerable Mausoleum (200+)",dungeon,0x577103E3,170.022,-279.979,0.005
+"Vengeance Caverns (45+)",dungeon,0x5D4601E1,11.9721,-109.085,0.005
+"Vesper Gate",housing,0x75000161,83.74,-93.75,0
+"Viamontian Direlands Mine (100+)",dungeon,0x00480330,45.8297,-174.208,0.005
+"Viamontian Esper Mine (100+)",dungeon,0x0048051A,235.545,-45.5886,0.005
+"Viamontian Garrison",dungeon,0x00020224,90,-50,0.005
+"Viamontian Laboratory",dungeon,0x00680186,40,-150,0.005
+"Viamontian Royal Prison (80+)",dungeon,0x001E029B,20,0,0.005
+"Viamontian Torture Chamber",dungeon,0x02EB022F,0,-20,0.005
+"Victory Residential Halls",housing,0x56500140,40,-70,0
+"Vile Sanctuary",dungeon,0x001701CA,12.2668,-59.989,12.005
+"Vile-Smelling Refuse (0x0278)",dungeon,0x02780369,150,-100,0.005
+"Vile-Smelling Refuse (0x0279)",dungeon,0x0279037B,110,0,0.005
+"Vile-Smelling Refuse (0x027A)",dungeon,0x027A0325,90,-10,0.005
+"Vile-Smelling Refuse (0x027B)",dungeon,0x027B030C,130,-130,0.005
+"Vile-Smelling Refuse (0x0280)",dungeon,0x0280041C,60,-90,0.005
+"Vindalan Dwellings",housing,0x7F000161,83.74,-93.75,0
+"Virindi Complex",dungeon,0x5B450314,30,-20,3.62991
+"Virindi Edifice (180+)",dungeon,0x5867026B,180,-160,0.005
+"Virindi Fort (15+)",dungeon,0x01400206,50,-10,0
+"Virindi Research Facility (150+)",dungeon,0x56550318,210,-270,0.005
+"War Room (80+)",dungeon,0x0010035E,110.589,-191.144,0.005
+"Warehouse",dungeon,0x574B010F,40.1,-7,0
+"Warehouse Annex Mine (0x5648)",dungeon,0x5648014B,0,-50,0.005
+"Warehouse Annex Mine (0x574C)",dungeon,0x574C03E2,176.029,-310.063,12.005
+"Wasteland Hive (70+)",dungeon,0x0285010A,100,-70,-30
+"Water Temple",dungeon,0x0168012A,40,-20,0
+"Waterfall Cave",dungeon,0x02D50237,92.3256,-0.699978,0.005
+"Watery Grotto",dungeon,0x017B0154,70,-80,0.005
+"Weakened Royal Vault",dungeon,0x001102D6,0,-10,0.005
+"Weakened Vault Sewers",dungeon,0x000C0142,110,0,0.005
+"Web Maze",dungeon,0x01B20101,9.61,-30.47,0
+"Wedding Trials Dungeon",dungeon,0x52690164,50,-190,0
+"West Fork Dam Hive (180+)",dungeon,0x5869026B,120,-90,0.055
+"West Library Conveyance",dungeon,0x64440144,90,-300,-23.995
+"Western Aerlinthe Island",dungeon,0xB8E80103,175.8,132.1,-1.8
+"Western Power Forge (100+)",dungeon,0x00060100,0,-170,6.005
+"Western Royal Hive",dungeon,0x586A0148,280,-260,0.015
+"Western Temple Catacombs (100+)",dungeon,0x004D06E6,90,-360,0
+"Whispering Blade Chapterhouse",dungeon,0x00810128,80,-10,0.005
+"Whispering Caverns",dungeon,0xEA6C0156,155.588,246.538,-11.195
+"White Lotus Gate",housing,0x82000161,83.74,-93.75,0
+"Wilamil Court",housing,0x99000161,83.74,-93.75,0
+"Wilderness Citadel",dungeon,0x02F20152,140,-130,0
+"Winthur Gate",housing,0x72000161,83.74,-93.75,0
+"Winthura's Garden (8+)",dungeon,0x014B0213,80,-120,0
+"Xao Wu Gardens",housing,0x8F000161,83.74,-93.75,0
+"Xarabydun Lifestone",dungeon,0x02D30116,40,-40,0
+"Xarabydun Town",dungeon,0x934B023E,103.6,25.1,-13.6
+"Xi Ru's Chapel",dungeon,0x019502DF,230,-250,0.005
+"Xi Ru's Crypt",dungeon,0x0196023D,100,-140,0.005
+"Xi Ru's Library",dungeon,0x0195020A,90,-150,0.005
+"Xi Ru's Remembrance",dungeon,0x019602E2,240,-130,0.005
+"Yanshi Lower Undermine",dungeon,0x0046010E,10,-270,0.005
+"Yanshi Meeting Hall",dungeon,0x01330126,30,-60,6
+"Yanshi Tunnel",dungeon,0x01D00117,28.5,1.2,0
+"Yanshi Upper Undermine",dungeon,0x00460242,360,-240,12.005
+"Yaraq Meeting Hall",dungeon,0x01340126,30,-60,6
+"Yaraq Tunnels",dungeon,0x01FB0206,92,-20,0
+"Zaikhal Meeting Hall",dungeon,0x01350126,30,-60,6

@@ -1,0 +1,18 @@
+{
+  "title": "ac-datasets",
+  "description": "Miscellaneous Asheron's Call datasets.",
+  "databases": {
+    "ac": {
+      "tables": {
+        "locations": {
+          "title": "Locations",
+          "description": "Named locations in Dereth, including dungeons and points of interest.",
+          "source": "Asheron's Call community data",
+          "source_url": "https://github.com/amoeba/ac-datasets",
+          "license": "CC0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+      }
+    }
+  }
+}

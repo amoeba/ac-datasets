@@ -1,3 +1,0 @@
-datasette
-csvs-to-sqlite
-datasette-block-robots

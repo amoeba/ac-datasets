@@ -8,6 +8,8 @@ authors = [
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "datasette>=0.65.3",
+    "datasette-block-robots>=1.1.1",
     "frictionless>=5.19.0",
 ]
 
@@ -20,5 +22,6 @@ package = false
 
 [dependency-groups]
 dev = [
+    "csvs-to-sqlite>=1.3.1",
     "pytest>=9.1.1",
 ]

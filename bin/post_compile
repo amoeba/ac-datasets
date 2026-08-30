@@ -1,1 +1,4 @@
-wget https://github.com/amoeba/ac-datasets/releases/download/latest/locations.db
+wget --quiet https://github.com/amoeba/ac-datasets/releases/download/latest/databases.txt
+while IFS= read -r database; do
+  wget --quiet "https://github.com/amoeba/ac-datasets/releases/download/latest/$database"
+done <databases.txt

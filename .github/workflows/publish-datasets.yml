@@ -73,7 +73,7 @@ jobs:
           if ! gh release view "$release_tag" >/dev/null 2>&1; then
             gh release create "$release_tag" ./*.db databases.txt \
               --target "$GITHUB_SHA" \
-              --title "Dataset build ${GITHUB_SHA::7}" \
+              --title "$release_tag" \
               --generate-notes
           fi
 
@@ -97,3 +97,25 @@ jobs:
               --title Latest \
               --notes "Current dataset deployment."
           fi
+
+  deploy:
+    needs: publish
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.DOKKU_SSH_PRIVATE_KEY }}
+          log-public-key: false
+
+      - name: Add Dokku host to known_hosts
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan -H "${{ vars.DOKKU_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Deploy to Dokku
+        run: |
+          git remote add dokku "dokku@${{ vars.DOKKU_HOST }}:${{ vars.DOKKU_APP }}"
+          git push dokku HEAD:main

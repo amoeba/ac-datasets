@@ -4,3 +4,7 @@ __pycache__/
 *.pyo
 *.egg-info/
 .DS_Store
+
+# Generated Dokku deploy SSH keys
+dokku_deploy*
+

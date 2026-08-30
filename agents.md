@@ -85,22 +85,21 @@ CI runs these checks on every push and pull request. The workflow also runs `scr
 
 Datasette serves SQLite databases, not CSVs directly. The deployment pulls a pre-built database from GitHub Releases.
 
-1. Build or update the SQLite database from the CSVs:
+1. Merge a dataset lifecycle change to `main`. The **Publish Datasets** workflow publishes
+   when a dataset folder is added or removed, or when a resource checksum in an existing
+   dataset's `datapackage.json` changes. It validates the packages, builds a SQLite database
+   for each CSV, creates an immutable `datasets-<commit-sha>` release, and moves the
+   `latest` tag and release assets to that build. Package metadata-only changes do not
+   publish a new release.
+
+   Do not create, edit, upload to, or move GitHub Releases or the `latest` tag with
+   the `gh` CLI. The workflow is the sole publisher for release artifacts.
+
+2. `bin/post_compile` downloads the `latest` database manifest and all listed databases
+   during a Dokku deploy:
 
    ```bash
-   csvs-to-sqlite datasets/locations/locations.csv locations.db
-   ```
-
-2. Attach the database to a GitHub Release named `latest`:
-
-   ```bash
-   gh release upload latest locations.db --clobber
-   ```
-
-   `bin/post_compile` downloads this file during the Dokku deploy:
-
-   ```bash
-   wget https://github.com/amoeba/ac-datasets/releases/download/latest/locations.db
+   wget https://github.com/amoeba/ac-datasets/releases/download/latest/databases.txt
    ```
 
 3. The `Procfile` serves the downloaded database:
@@ -120,5 +119,5 @@ Datasette serves SQLite databases, not CSVs directly. The deployment pulls a pre
 - [ ] CSV added to `datasets/<name>/<name>.csv` (or external source documented)
 - [ ] Metadata entry added to `metadata.json`
 - [ ] `datapackage.json` added to `datasets/<name>/` and validated with `uv run scripts/validate_datapackages.py`
-- [ ] `locations.db` rebuilt and uploaded to the `latest` GitHub Release
-- [ ] Changes committed and pushed to Dokku
+- [ ] Dataset change merged to `main` and the **Publish Datasets** workflow completed
+- [ ] Dokku deployed after the workflow completed, so it downloads the updated `latest` assets

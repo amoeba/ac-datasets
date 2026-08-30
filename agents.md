@@ -8,6 +8,11 @@ Use `dataset(<name>): <description>` for dataset changes and `repo: <description
 or `repo(<scope>): <description>` for everything else. Add `!` before `:` for
 breaking changes. Do not push directly to `main`; open a pull request.
 
+## Pull request merge strategy
+
+Merge pull requests using GitHub's **Squash and merge** option after required
+checks pass. Do not use merge commits, rebase merges, or auto-merge.
+
 > **Use `uv` for all Python work in this repo.** Install dependencies with `uv sync`, run tools with `uv run`, and add packages with `uv add`.
 
 ## Where to put the data

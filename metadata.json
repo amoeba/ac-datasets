@@ -2,7 +2,7 @@
   "title": "ac-datasets",
   "description": "Miscellaneous Asheron's Call datasets.",
   "databases": {
-    "ac": {
+    "locations": {
       "tables": {
         "locations": {
           "title": "Locations",

@@ -8,6 +8,11 @@ Use `dataset(<name>): <description>` for dataset changes and `repo: <description
 or `repo(<scope>): <description>` for everything else. Add `!` before `:` for
 breaking changes. Do not push directly to `main`; open a pull request.
 
+## Pull request merge strategy
+
+Merge pull requests using GitHub's **Squash and merge** option after required
+checks pass. Do not use merge commits, rebase merges, or auto-merge.
+
 > **Use `uv` for all Python work in this repo.** Install dependencies with `uv sync`, run tools with `uv run`, and add packages with `uv add`.
 
 ## Where to put the data
@@ -26,7 +31,7 @@ Example entry for a CSV named `datasets/locations/locations.csv`:
   "title": "ac-datasets",
   "description": "Miscellaneous Asheron's Call datasets.",
   "databases": {
-    "ac": {
+    "locations": {
       "tables": {
         "locations": {
           "title": "Locations",
@@ -42,7 +47,7 @@ Example entry for a CSV named `datasets/locations/locations.csv`:
 }
 ```
 
-When you add a new CSV, add a matching table entry under `databases.ac.tables`.
+When you add a new CSV, add a matching table entry under `databases.locations.tables`.
 
 ## Add a Frictionless Data Package
 
@@ -83,20 +88,19 @@ Datasette serves SQLite databases, not CSVs directly. The deployment pulls a pre
 1. Build or update the SQLite database from the CSVs:
 
    ```bash
-   csvs-to-sqlite datasets/*/*.csv ac.db
+   csvs-to-sqlite datasets/locations/locations.csv locations.db
    ```
 
-2. Rename the database to `test.db` and attach it to a GitHub Release named `latest`:
+2. Attach the database to a GitHub Release named `latest`:
 
    ```bash
-   mv ac.db test.db
-   gh release upload latest test.db --clobber
+   gh release upload latest locations.db --clobber
    ```
 
    `bin/post_compile` downloads this file during the Dokku deploy:
 
    ```bash
-   wget https://github.com/amoeba/ac-datasets/releases/download/latest/test.db
+   wget https://github.com/amoeba/ac-datasets/releases/download/latest/locations.db
    ```
 
 3. The `Procfile` serves the downloaded database:
@@ -116,5 +120,5 @@ Datasette serves SQLite databases, not CSVs directly. The deployment pulls a pre
 - [ ] CSV added to `datasets/<name>/<name>.csv` (or external source documented)
 - [ ] Metadata entry added to `metadata.json`
 - [ ] `datapackage.json` added to `datasets/<name>/` and validated with `uv run scripts/validate_datapackages.py`
-- [ ] `test.db` rebuilt and uploaded to the `latest` GitHub Release
+- [ ] `locations.db` rebuilt and uploaded to the `latest` GitHub Release
 - [ ] Changes committed and pushed to Dokku
